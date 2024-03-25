@@ -1,4 +1,4 @@
-package JAVA;
+package Personal_Java;
 
 public class remove_Duplicate {
 
